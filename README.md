@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <!--
-**BoscoBecker/BoscoBecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hasherezade/hasherezade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### &#x1f4c8; My GitHub Stats
