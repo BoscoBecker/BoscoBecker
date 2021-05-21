@@ -12,12 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### &#x1f4c8; My GitHub Stats
 
-<a href="https://hasherezade.net">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hasherezade&show_icons=true&line_height=33&count_private=true&theme=dark" alt="hasherezade's GitHub Stats" />
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=boscobecker&show_icons=true&line_height=33&count_private=true&theme=dark" alt="BoscoBecker's GitHub Stats" />
 </a>
 
-<a href="https://hasherezade.net">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasherezade&&hide=cmake&langs_count=4&line_height=35&theme=dark" />
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boscobecker&&hide=cmake&langs_count=4&line_height=35&theme=dark" />
 </a>
