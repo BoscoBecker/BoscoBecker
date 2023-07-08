@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boscobecker&&hide=cmake&langs_count=7&line_height=35&theme=dark" />
 </a>
+<br><br><br>
+<a href="#">
+  <img align="center" src="https://wakatime.com/badge/user/012e756d-661e-4e3c-b067-82394bc2f180.svg" alt="Waka Time" />
+</a>
