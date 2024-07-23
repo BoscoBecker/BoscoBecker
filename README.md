@@ -9,7 +9,8 @@ Back-end Developer
 - 🌍 I'm mostly active within the **learn C#**
 - 💬 `ping` me about **development**, **C#**, **Nestjs**, **Node**, **NPM**
 
+![image](https://github.com/user-attachments/assets/f6e4b561-02fe-4d2a-be4a-d0fd940c40de)
 
-![image](https://github.com/user-attachments/assets/ef3ca22d-3a54-48f8-a0b6-21dab8a727ca)
+☕**BTC** :bc1qagk2m6vffdfmqazq0zlmqgk9kknqehlftx5k8s
 
-BTC: bc1qsr7mrjwytxrvdw5ux9hz8m0ffnjxgxa9k83fek
+
