@@ -1,5 +1,3 @@
-### Hello guys 👋
-
 #### A Software Developer that love code
 
 Back-end Developer
