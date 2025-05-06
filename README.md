@@ -13,6 +13,4 @@ ToolsIA 🤖 https://toolsia.boscobecker.fun/
 
 Endopint-Check https://endpointcheck.boscobecker.fun/
 
-![image](https://github.com/user-attachments/assets/438558aa-89c8-4b62-847d-5dbf76fabbbe)
-
 
